@@ -1,5 +1,0 @@
-name = "inmind-yijing"
-compatibility_date = "2024-01-01"
-
-# Cloudflare Pages Functions 自動從 functions/ 目錄讀取
-# 無需額外配置
